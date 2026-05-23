@@ -4,6 +4,10 @@ A modern cryptocurrency dashboard built with React and Vite.
 
 The application displays real-time cryptocurrency data, interactive charts, market statistics, and detailed coin information through a clean and responsive interface.
 
+## Check out the final project
+
+[crypto-dash final project](https://crypto-dash-project-two.vercel.app/)
+
 ## Features
 
 - Real-time cryptocurrency market data
